@@ -2,15 +2,18 @@
 baseurl: "/personal_portfolio"
 url: "https://github.com/Rvelchuri"
 
+livereload: true
+livereload_port: 35729
+
 # THEME-SPECIFIC CONFIGURATION
 title: Rajani Velchuri                                  # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/Tulip.png                        # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: <code>Welcome to my Tech world</code>   # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_feature_image: assets/img/pexels/Tulip.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/Rvelchuri/Type-on-Strap">Type on Strap</a>
 
