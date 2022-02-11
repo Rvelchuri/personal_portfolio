@@ -5,6 +5,7 @@ url: "https://github.com/Rvelchuri"
 livereload: true
 livereload_port: 35729
 
+
 # THEME-SPECIFIC CONFIGURATION
 title: Rajani Velchuri                                  # site's title
 description: "A website with blog posts and pages"      # used by search engines
