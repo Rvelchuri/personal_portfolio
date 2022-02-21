@@ -13,3 +13,8 @@ Event Remider is a web application, where you can enter or view event details li
 
 checking test branch to work.
 CHECKING TEST BRANCH
+
+
+made some changes to livereload
+
+checking changes to reload
