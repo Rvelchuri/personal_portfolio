@@ -5,6 +5,8 @@ url: "https://github.com/Rvelchuri"
 livereload: true
 livereload_port: 35729
 
+markdown: kramdown
+
 
 # THEME-SPECIFIC CONFIGURATION
 title: Rajani Velchuri                                  # site's title
