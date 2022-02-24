@@ -2,13 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/Diya-about.jpg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+My name is Rajani Velchuri, and I'd like to introduce myself. I went back to school to get my bachelor's degree in electronics and communications engineering. In India, I worked as an associate and assistant professor in an engineering college. After getting married, I moved to the United States and worked for two years as a quality assurance analyst. To care for twins, I took a long vacation from my profession. Now that they're nine years old, they don't expect much from me, so I'm reconsidering my decision to pursue a job in software development.
  
