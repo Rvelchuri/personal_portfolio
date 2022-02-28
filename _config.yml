@@ -3,17 +3,16 @@ baseurl: "/personal_portfolio"
 url: "https://github.com/Rvelchuri"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Rajani Velchuri                                  # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+title: RV                                  # site's title
+description: "Welcome to My page"      # used by search engines
+avatar: assets/img/Tulip.jpg                        # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: <code>Welcome to my Tech world</code>   # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: <code>Welcome to my world</code>   # Change Blog header text
+header_feature_image: assets/img/diya-about.jpg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/Rvelchuri/Type-on-Strap">Type on Strap</a>
-
+  
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true

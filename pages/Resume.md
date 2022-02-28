@@ -23,7 +23,6 @@ software Engineer, Minneapols,MN
 **Bachelor of Technology in Electronics & Communications**, *VR.Siddhartha Engineering College*`1999-2002`
 
 **SKILLS**   
-  ----      |---                |-             |-               |
 Python      | JavaScript        | AJAX         | JSON           |
 Flask       | Bootstrap         |  Jinja       | React          |
 PostgreSQL  | Data Structures   |  GitHub      | Quality centr  |
