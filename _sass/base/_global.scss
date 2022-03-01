@@ -279,16 +279,17 @@ kbd {
     height: auto;
     padding-bottom: 2em;
     padding-top: 2em;
-    max-width: 100%;
+    max-width: 30%;
   }
 }
 
 
 .devicon-devicon-plain {
   max-width: 2em;
+  max-height: 2em;
 }
 
-/* if you want to change the original color */
-.devicon-devicon-plain path {
-  fill: #4691f6;
-}
+
+
+
+

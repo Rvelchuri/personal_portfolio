@@ -11,6 +11,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 # Header and footer text
 header_text: <code>Welcome to my world</code>   # Change Blog header text
 header_feature_image: assets/img/diya-about.jpg
+header_feature_image_responsive: true
 footer_text: >
   
 # Blog
