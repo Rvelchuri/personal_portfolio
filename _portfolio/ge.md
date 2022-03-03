@@ -7,5 +7,10 @@ date: September 2014
 
 ![image]({{ page.img | relative_url }})
 
- As A QA ANALYST.
+<p style="color:#e8dfcc" > $$ \🕵️‍♀️\🕵️‍♀️\🕵️‍♀️\🕵️‍♀️\🕵️‍♀️\🕵️‍♀️\🕵️‍♀️\🕵️‍♀️\🕵️‍♀️ $$ </p>
+
+
+
+
+My first job in USA and my first jon in software field.
 
