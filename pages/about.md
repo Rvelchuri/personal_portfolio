@@ -6,7 +6,7 @@ color: #FFF0F5
 tags: [Page]
 ---
 
-
+<link rel = "stylesheet" type = "text/css" href = "/Users/Z009F7C/Projects/personal_portfolio/assets/css/devicon.min.css">
 
 <!--  for devicon plain version -->
 <i class="devicon-devicon-plain"></i>
